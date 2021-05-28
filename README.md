@@ -1,3 +1,5 @@
+*Makesure you already install Python in you linux*
+
 
 install pyshortener in cmd/terminal :-
 
